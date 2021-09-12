@@ -8,7 +8,7 @@
 namespace ACFWPObjects\Core;
 
 if ( ! defined('ABSPATH') ) {
-	die('FU!');
+	die('Not allowed.');
 }
 use ACFWPObjects\Asset;
 use ACFWPObjects\Compat;
